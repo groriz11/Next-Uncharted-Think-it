@@ -2,7 +2,7 @@
 
 Welcome, fellow adventurers, to the **Uncharted: Legacy of the Lost** project\! This repository is dedicated to an ambitious, fan-made story concept and expansive lore continuation for Naughty Dog's legendary *Uncharted* series. Our journey begins after the heartfelt conclusion of **Uncharted 4: A Thief’s End**, aiming to craft a new, thrilling chapter for Nathan Drake, Elena Fisher, and their circle of intrepid friends. Prepare to delve into uncharted territories, uncover ancient secrets, and confront the echoes of history that resonate into the present.
 
-![Uncharted Collage](images/uncharted_collage.jpg)
+![Uncharted Collage]([images/uncharted_collage.jpg](http://th.bing.com/th/id/R.121fe08813e3dc7cfec08407e66b50f8?rik=wa7H9UJUs8OrRw&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fwp1827009.jpg&ehk=LlUVmK5ATM50udUOOuqsDFSxvUVHpGNSBXX2spbOV4g%3d&risl=&pid=ImgRaw&r=0))
 -----
 
 ## 📜 Story Overview: A Deep Dive into the Drake Saga
